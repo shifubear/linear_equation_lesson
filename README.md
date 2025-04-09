@@ -2,7 +2,9 @@
 
 The project was built in a conda environment using Python 3.9. The only package that was installed was `streamlit` and there are no other dependencies. 
 
-To run the app, use 
+The demo can be accessed [here](https://shifubear-linear-equation-lesson-demo-app-vu7jyt.streamlit.app/demo). The `demo` page contains the requested interactive quiz. 
+
+To run the app locally, use 
 ```
 $ streamlit run demo_app.py 
 ```
