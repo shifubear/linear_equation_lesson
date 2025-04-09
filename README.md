@@ -1,6 +1,6 @@
 # Linear Equation Lesson Demo
 
-The project was built in a conda environment using Python 3.9. The only package that was installed was `streamlit`. 
+The project was built in a conda environment using Python 3.9. The only package that was installed was `streamlit` and there are no other dependencies. 
 
 To run the app, use 
 ```
